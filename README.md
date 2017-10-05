@@ -1,18 +1,18 @@
-# Test de candidature
+# Application Exercice
 
-Vous voulez rejoindre l'équipe Fiscalité & Territoire ?
+In order to test your knowledge, we ask you to solve this basic problem
 
-Afin de d'évaluer rapidement vos connaissances, nous vous proposons de résoudre quelques problèmes de base.
-
-Clonez ce repository, lancer les specs et écrivez le code qui permettra de les passer au vert !
+Clone this repository, run the spec and write the code that makes all the tests succeed !
 
 
-**Quelques consignes :**
+**Notes :**
 
-* Comment lancer les specs ? Hey ! Ca fait parti du test, débrouillez-vous !
+* The name of the models are taken from french so to give you a better understanding, a Commune is equivalent to a City.
 
-* On ne touche pas au dossier `spec`, sinon c'est de la triche !
+* How to run the spec ? That's part of the test, do it yourself !
 
-* Ne forkez pas le repository si vous ne voulez pas partager vos réponses avec d'autres candidats.
+* Don't touch write in the `spec` directory, that would be cheating !
 
-* Envoyez l'URL de votre repo à [cto@fiscalite-territoire.fr](mailto:cto@fiscalite-territoire.fr) (et accessoirement votre CV, votre lettre de motivation) ! Nous vous recontacterons très vite.
+* Don't fork the repository to not share the response with others.
+
+* When you finish, send the URL of your repository.
