@@ -11,7 +11,7 @@ Clone this repository, run the spec and write the code that makes all the tests 
 
 * How to run the spec ? That's part of the test, do it yourself !
 
-* Don't touch write in the `spec` directory, that would be cheating !
+* Don't write in the `spec` directory, that would be cheating !
 
 * Don't fork the repository to not share the response with others.
 
